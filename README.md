@@ -16,7 +16,8 @@ This is a website for sport gymnastics, specifically created for users looking f
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/19hdgy86/rsg-website.git)
+   git clone https://github.com/19hdgy86/rsg-website.git
+   
 Open the index.html file in your browser:
 No additional installations are required, as this is a simple static website.
 📖 Features
