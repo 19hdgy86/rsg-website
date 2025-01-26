@@ -1,36 +1,46 @@
-# Sportgymnastik Webanwendung
+# Sport Gymnastics Web Application
 
-Dies ist eine Webseite für Sportgymnastik, die speziell für Nutzer erstellt wurde, die Kurse, Gruppen und Trainerinformationen suchen. Die Seite ist auf Deutsch und bietet eine benutzerfreundliche Oberfläche, um die gewünschten Informationen schnell zu finden.
+This is a website for sport gymnastics, specifically created for users looking for **courses**, **groups**, and **trainer information**. The site is in German and offers a **user-friendly interface** to quickly find the desired information.
 
-## Technologien
+---
 
-- **HTML**: Struktur der Webseite
-- **CSS**: Gestaltung und Layout
-- **JavaScript**: Interaktive Elemente
+## 🛠️ Technologies Used
 
-## Installation
-  git clone https://github.com/19hdgy86/rsg-website.git
-  
-  Öffne die index.html in deinem Browser:
-  Keine zusätzlichen Installationen erforderlich, da es sich um eine einfache statische Webseite handelt.
+- **HTML**: Structure of the website  
+- **CSS**: Styling and layout  
+- **JavaScript**: Interactive elements  
 
-  Nutzung
+---
 
-  Kursübersicht: Eine detaillierte Liste der verfügbaren Sportgymnastik-Kurse.
-  Trainer: Informationen zu den Trainern und deren Erfahrungen.
-  Altersgruppen: Eine Übersicht der Altersgruppen für die verschiedenen Kurse.
-  
-  Anpassung
-  
-  Falls du Änderungen am Layout oder Design vornehmen möchtest, kannst du die folgenden Dateien bearbeiten:
-  index.html: Die Haupt-HTML-Struktur.
-  style.css: Für alle visuellen Anpassungen.
-  script.js: Für die Interaktivität der Seite.
-  
-  Lizenz
-  Dieses Projekt ist unter der MIT-Lizenz lizenziert.
+## 🚀 How to Install
 
-  Kontakt
-  Projektautor: Imre Hadnagy
-  E-Mail: 19hdgy86@gmail.com
-  GitHub-Repository: https://github.com/19hdgy86/rsg-website.git
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/Sportgymnastics-Website.git](https://github.com/19hdgy86/rsg-website.git)
+Open the index.html file in your browser:
+No additional installations are required, as this is a simple static website.
+📖 Features
+Course Overview
+View a detailed list of available sport gymnastics courses.
+
+Trainer Information
+Learn about the trainers and their experience.
+
+Age Groups
+Explore the different age groups for each course.
+
+🎨 Customization
+If you wish to modify the layout or functionality, you can edit the following files:
+
+index.html: The main HTML structure
+style.css: All visual customizations
+script.js: Interactive elements
+📄 License
+This project is licensed under the MIT License.
+
+📞 Contact
+Author: Imre Hadnagy
+Email: 19hdgy86@gmail.com
+GitHub Repository: Click here
+
+
