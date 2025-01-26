@@ -20,7 +20,7 @@ This is a website for sport gymnastics, specifically created for users looking f
    
 Open the index.html file in your browser:
 No additional installations are required, as this is a simple static website.
-📖 Features
+## 📖 Features
 Course Overview
 View a detailed list of available sport gymnastics courses.
 
@@ -30,13 +30,13 @@ Learn about the trainers and their experience.
 Age Groups
 Explore the different age groups for each course.
 
-🎨 Customization
+## 🎨 Customization
 If you wish to modify the layout or functionality, you can edit the following files:
 
 index.html: The main HTML structure
 style.css: All visual customizations
 script.js: Interactive elements
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 
@@ -66,7 +66,7 @@ This is a website for sport gymnastics, specifically created for users looking f
    git clone https://github.com/your-username/Sportgymnastics-Website.git
 Open the index.html file in your browser:
 No additional installations are required, as this is a simple static website.
-📖 Features
+## 📖 Features
 Course Overview
 View a detailed list of available sport gymnastics courses.
 
@@ -76,16 +76,16 @@ Learn about the trainers and their experience.
 Age Groups
 Explore the different age groups for each course.
 
-🎨 Customization
+## 🎨 Customization
 If you wish to modify the layout or functionality, you can edit the following files:
 
 index.html: The main HTML structure
 style.css: All visual customizations
 script.js: Interactive elements
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-📞 Contact  
+## 📞 Contact  
 Author: Imre Hadnagy  
 Email: 19hdgy86@gamil.com  
 GitHub Repository:  https://github.com/your-username/Sportgymnastics-Website.git
