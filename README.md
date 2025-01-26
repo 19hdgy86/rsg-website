@@ -85,7 +85,7 @@ script.js: Interactive elements
 📄 License
 This project is licensed under the MIT License.
 
-📞 Contact
+📞 Contact  
 Author: Imre Hadnagy  
 Email: 19hdgy86@gamil.com  
 GitHub Repository:  https://github.com/your-username/Sportgymnastics-Website.git
